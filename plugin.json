@@ -1,0 +1,11 @@
+{
+  "name": "page-designer-json-generator",
+  "version": "1.0.0",
+  "description": "Generates production-ready JSON files for the Blackthorn Events page builder. Given event details, outputs a complete importable layout with themes, fonts, color tokens, and responsive spacing.",
+  "skills": [
+    {
+      "name": "landing-page-json-generator",
+      "path": "landing-page-json-generator"
+    }
+  ]
+}
